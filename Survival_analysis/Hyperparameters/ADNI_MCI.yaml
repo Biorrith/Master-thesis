@@ -1,0 +1,6 @@
+Best Parameters:
+  max_features: sqrt
+  min_samples_leaf: 3
+  min_samples_split: 3
+  n_estimators: 600
+Best Score: 0.8586955077856995
